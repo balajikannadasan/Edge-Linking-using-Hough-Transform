@@ -26,7 +26,12 @@ Detect the points that form a line using Hough lines
 Run and execute the output.
 <br>
 
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ~~~
 Program developed by: K.Balaji
@@ -67,6 +72,9 @@ plt.axis('off')
 
 
 ```
+<br></br>
+<br></br>
+<br></br>
 ## Output
 
 ### Input image and grayscale image
